@@ -1,5 +1,7 @@
 # odin-recipes
 
+Check out the live preview: https://mrwatertank.github.io/odin-recipes/index.html
+
 This odin-recipes project was done using only HTML and might be revised in the future using CSS and Javascript as and when I learn it.
 
 This project was lot of fun to work on! I learnt quite a bit of things. The first recipe page was challenging and following two recipes were not that tough.
